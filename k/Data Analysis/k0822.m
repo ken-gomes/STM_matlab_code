@@ -1,0 +1,19 @@
+function mapsout=k0822(mapsin)
+
+mapsout{1}=mapsin{1}(15:120,7:100);
+mapsout{2}=mapsin{2}(3:108,1:88);
+mapsout{3}=mapsin{3}(11:128,11:98);
+mapsout{4}=mapsin{4}(11:125,25:128);
+mapsout{5}=mapsin{5}(3:115,13:116);
+mapsout{6}=mapsin{6}(4:115,8:110);
+mapsout{7}=mapsin{7}(6:116,7:107);
+mapsout{8}=mapsin{8}(2:111,10:104);
+mapsout{9}=mapsin{9}(5:113,14:109);
+mapsout{10}=mapsin{10}(2:109,5:102);
+mapsout{11}=mapsin{11}(7:114,6:103);
+mapsout{12}=mapsin{12}(5:112,4:100);
+mapsout{13}=mapsin{13}(6:113,5:101);
+mapsout{14}=mapsin{14}(6:111,8:103);
+mapsout{15}=mapsin{15}(2:103,5:97);
+mapsout{16}=mapsin{16}(9:111,6:96);
+mapsout{17}=mapsin{17}(6:105,2:87);
